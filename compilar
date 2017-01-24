@@ -1,0 +1,3 @@
+gcc -I C:\allegro5\include -c main.c angry_birds.c
+gcc -o main.exe main.o angry_birds.o  C:\allegro5\lib\liballegro-5.0.8-monolith-mt.a
+tp.exe
